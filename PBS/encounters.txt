@@ -1,5 +1,5 @@
 #-------------------------------
-002 # Lappet Town
+002 # Test Pokemon Center
 25,10,10
 Water
 TENTACOOL,14,19
@@ -21,7 +21,23 @@ CORSOLA,15,18
 STARYU,15,17
 STARYU,15,17
 #-------------------------------
-005 # Route 1
+004 # Test Hub
+25,10,10
+Land
+PIDGEY,2
+PIDGEY,3
+RATTATA,2,3
+RATTATA,2,3
+RATTATA,2,3
+RATTATA,2,3
+PIKACHU,4
+ODDISH,4
+SPEAROW,4
+ABRA,4
+GROWLITHE,5
+PONYTA,5
+#-------------------------------
+005
 25,10,10
 Land
 RATTATA,11,14
@@ -50,7 +66,7 @@ HOOTHOOT,10,14
 RATTATA,15
 HOOTHOOT,14
 #-------------------------------
-021 # Route 2
+021
 25,10,10
 Land
 RATTATA,12,15
@@ -103,7 +119,7 @@ SPINARAK,9,12
 SPINARAK,9,12
 SPINARAK,9,12
 #-------------------------------
-028 # Natural Park
+028
 25,10,10
 Land
 CATERPIE,10
@@ -158,7 +174,7 @@ PINSIR,13,14
 SCYTHER,13,14
 PINSIR,13,14
 #-------------------------------
-031 # Route 3
+031
 25,10,10
 Land
 NIDORANfE,12,15
@@ -217,7 +233,7 @@ BURMY,12,15
 BURMY,12,15
 BURMY,12,15
 #-------------------------------
-034 # Ice Cave
+034
 25,10,10
 Cave
 SWINUB,16,18
@@ -233,7 +249,7 @@ SMOOCHUM,11,14
 SMOOCHUM,11,14
 SMOOCHUM,11,14
 #-------------------------------
-039 # Route 4
+039
 25,10,10
 Land
 SHELLOS,12,15
@@ -249,7 +265,7 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 #-------------------------------
-041 # Route 5
+041
 25,10,10
 Land
 GRIMER,13,15
@@ -265,7 +281,7 @@ SLUGMA,13,14
 SLUGMA,13,14
 SLUGMA,13,14
 #-------------------------------
-044 # Route 6
+044
 25,10,10
 Land
 SHELLOS,12,15
@@ -281,7 +297,7 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 #-------------------------------
-047 # Route 7
+047
 25,10,10
 Land
 SHELLOS,12,15
@@ -303,7 +319,7 @@ GEODUDE,12,15
 GEODUDE,12,15
 GEODUDE,12,15
 #-------------------------------
-049 # Rock Cave
+049
 25,10,10
 Cave
 NOSEPASS,14,15
@@ -319,7 +335,7 @@ MAWILE,14,16
 MAWILE,14,16
 MAWILE,14,16
 #-------------------------------
-050 # Rock Cave
+050
 25,10,10
 Cave
 NOSEPASS,14,15
@@ -335,7 +351,7 @@ BURMY,14,16
 BURMY,14,16
 BURMY,14,16
 #-------------------------------
-051 # Dungeon
+051
 25,10,10
 Cave
 PICHU,1
@@ -351,7 +367,7 @@ TYROGUE,1
 TYROGUE,1
 TYROGUE,1
 #-------------------------------
-066 # Safari Zone
+066
 25,10,10
 Land
 NIDORANfE,15,16
@@ -367,7 +383,7 @@ HOPPIP,13,17
 HOPPIP,13,17
 HOPPIP,13,17
 #-------------------------------
-068 # Safari Zone
+068
 25,10,10
 Land
 RHYHORN,16,18
@@ -402,7 +418,7 @@ CARVANHA,16,17
 FINNEON,15,18
 DRATINI,17
 #-------------------------------
-069 # Route 8
+069
 25,10,10
 Land
 ODDISH,15,17
@@ -437,7 +453,7 @@ CORSOLA,15,18
 STARYU,15,17
 STARYU,15,17
 #-------------------------------
-070 # Underwater
+070
 25,10,10
 Land
 CLAMPERL,18,20
@@ -453,7 +469,7 @@ RELICANTH,16,19
 RELICANTH,16,19
 RELICANTH,16,19
 #-------------------------------
-075 # Tiall Region
+075
 25,10,10
 Land
 RATTATA,11,14
