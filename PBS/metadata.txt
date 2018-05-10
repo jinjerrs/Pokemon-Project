@@ -18,7 +18,7 @@ WildBattleBGM=Battle wild.mid
 Bicycle=false
 MapPosition=0,13,12
 Outdoor=false
-HealingSpot=4,6,6
+HealingSpot=4,6,7
 ShowArea=true
 #-------------------------------
 [003]
